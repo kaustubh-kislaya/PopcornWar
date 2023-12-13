@@ -104,3 +104,8 @@ When users perform a search on the website, they are directed to the Search Resu
 
 -Explore Movies & TV Shows Page:
 The Explore Movies & TV Shows Page offers users the opportunity to browse through the entire movie and TV show catalog. It provides filters and sorting options to refine searches and discover new content effectively.
+
+
+![image](https://github.com/kaustubh-kislaya/PopcornWar/assets/118384878/5acd944e-9e57-4e9e-a8e0-3127ec1b9cbb)
+![image](https://github.com/kaustubh-kislaya/PopcornWar/assets/118384878/e42a7a68-db71-4150-9acd-e9238a5661d7)
+![image](https://github.com/kaustubh-kislaya/PopcornWar/assets/118384878/c7310110-2319-4116-a477-67fb7a258456)
